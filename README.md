@@ -51,4 +51,4 @@ A modular, hierarchical **4-bit ALU** designed using **Logisim**, divided into t
 
 **Saswat Padhy**  
 B.Tech, IIT Kharagpur  
-[GitHub Profile Link]  
+(https://github.com/Saswatpadhy9905)  
